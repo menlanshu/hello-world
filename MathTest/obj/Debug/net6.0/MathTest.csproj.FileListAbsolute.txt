@@ -1,0 +1,15 @@
+/workspace/MathTest/bin/Debug/net6.0/MathTest
+/workspace/MathTest/bin/Debug/net6.0/MathTest.deps.json
+/workspace/MathTest/bin/Debug/net6.0/MathTest.runtimeconfig.json
+/workspace/MathTest/bin/Debug/net6.0/MathTest.dll
+/workspace/MathTest/bin/Debug/net6.0/MathTest.pdb
+/workspace/MathTest/obj/Debug/net6.0/MathTest.csproj.AssemblyReference.cache
+/workspace/MathTest/obj/Debug/net6.0/MathTest.GeneratedMSBuildEditorConfig.editorconfig
+/workspace/MathTest/obj/Debug/net6.0/MathTest.AssemblyInfoInputs.cache
+/workspace/MathTest/obj/Debug/net6.0/MathTest.AssemblyInfo.cs
+/workspace/MathTest/obj/Debug/net6.0/MathTest.csproj.CoreCompileInputs.cache
+/workspace/MathTest/obj/Debug/net6.0/MathTest.dll
+/workspace/MathTest/obj/Debug/net6.0/refint/MathTest.dll
+/workspace/MathTest/obj/Debug/net6.0/MathTest.pdb
+/workspace/MathTest/obj/Debug/net6.0/MathTest.genruntimeconfig.cache
+/workspace/MathTest/obj/Debug/net6.0/ref/MathTest.dll
